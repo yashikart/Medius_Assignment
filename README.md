@@ -17,6 +17,12 @@ Technologies Used
     2. Selenium: Web browser automation tool for controlling web browsers through Python scripts.
     3. SMTP Library: Python library for sending emails.
 
+Image 1 
+(https://github.com/yashikart/Medius_Assignment/blob/master/img1.jpg)
+
+Image 2
+(https://github.com/yashikart/Medius_Assignment/blob/master/image1.jpg)
+
 Approaching the assignment involved first understanding the requirements thoroughly, then planning the project structure with Django for backend handling. 
 Next, I integrated Selenium for automated interactions with the Google Form, ensuring form submission was streamlined. Error handling was implemented to manage exceptions gracefully, and SMTP library was utilized to send emails with captured screenshots.
 Testing was crucial to validate each step of the automation process. Finally, documentation was prepared to provide clear insights into project functionality and usage, ensuring a comprehensive submission. 
