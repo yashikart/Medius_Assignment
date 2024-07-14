@@ -1,3 +1,16 @@
+Assignment Objectives:
+
+1. Submit the details on the Google form provided via code.
+2. Capture a screenshot (in PDF, JPG, or PNG format) of the confirmation page.
+3. Send the captured screenshot via email using Django's email functionality.
+
+Google Form Link: https://forms.gle/WT68aV5UnPajeoSc8
+
+Email Instructions:
+* Subject: Python (Selenium) Assignment - [Your Name]
+* To: tech@themedius.ai
+* CC: hr@themedius.ai
+
 Technologies Used
 
     1. Django: Python-based web framework for backend development.
